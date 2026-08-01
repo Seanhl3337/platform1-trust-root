@@ -1,0 +1,13 @@
+{
+  "schema_version": "1.0",
+  "trust_root_manifest_id": "P1-RN-V1.11-R2-TRUST-ROOT-SEANHL3337-20260802",
+  "trust_root_scope": "REAL_NORMALIZER_V1_11_R2_REVIEW_AUTHENTICATION_ONLY",
+  "issuer_authority_class": "EXTERNAL_NON_AUTHOR_REVIEW_AUTHORITY",
+  "issuer_key_id": "platform1-issuer",
+  "issuer_spki_der_sha256": "2db5e185e7714dad517e2d785ed42d61ff626f4670092f248d9939599741c62f",
+  "verification_algorithm": "Ed25519",
+  "not_before_utc": "2026-08-01T00:00:00Z",
+  "not_after_utc": "2027-08-01T00:00:00Z",
+  "revocation_status": "NOT_REVOKED_AT_PIN_TIME",
+  "transport_authority": "NONE"
+}
